@@ -64,15 +64,19 @@ body{
 .sec-3{
     display: flex;
     width:50%;
-    margin: 10px 20px 50px 40px;
+    margin:50px  50px 0px 100px; 
+    
+}
+#kam{
+    margin-right: 40px;
 }
 #kam img{
-    width: 500px;
+    width: 400px;
     border-radius: 10px;
 }
-#jam{
-    margin: 20px 40px 20px 80px ;
-    padding: 100px  0px  100px 0px;
+.bird{
+    margin: 10px 10px 20px 0px ;
+    padding: 10px  20px  150px 10px;
 }
 #ram{
     text-decoration: none;
