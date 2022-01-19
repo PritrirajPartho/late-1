@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.button-1{
+    height: 2em;
+    width: 10em;
+    background-color: rgb(207, 50, 123);
+    border-radius: 10px;
+
+}
+.fas fa-arrow-{
+    padding-left: 2px;
+    
+}
+.span1{
+    color: azure;
+}
