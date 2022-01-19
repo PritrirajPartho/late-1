@@ -9,7 +9,7 @@ body{
     margin-top: 50px;
 }
 .cat{
-    margin-right: 300px;
+    margin-right: 10px;
 }
 #sam{
     font-size:50px;
@@ -31,8 +31,13 @@ body{
 .span1{
     color: azure;
 }
-.main-img  img{
-
+.main {
+    background-image: url(images/Circle\ design.svg);
+    padding-right: 100px;
+    background-repeat: no-repeat;
+}
+.main img{
+    margin-top: 20px;
 }
 .rat{
     text-align: center;
@@ -40,15 +45,53 @@ body{
 .sec-2{
     display: grid;
     grid-template-columns: auto auto auto ;
-    margin: 40px  100px 20px  160px;
+    margin: 40px  300px 20px  100px;
+    grid-gap: 15px 15px;
 }
 .tiger{
     background-color: #fff;
     border: 5px solid  #fff;
     border-radius: 10px;
     padding-bottom: 100px;
+    box-shadow: 10px 10px 50px rgb(97, 95, 95);
+    height: 350px;
+    width: 350px;
 }
 .tiger img{
-    height: 150px;
-    width:200px;
+    height: 250px;
+    width: 350px;
+}
+.sec-3{
+    display: flex;
+    width:50%;
+    margin: 10px 20px 50px 40px;
+}
+#kam img{
+    width: 500px;
+    border-radius: 10px;
+}
+#jam{
+    margin: 20px 40px 20px 80px ;
+    padding: 100px  0px  100px 0px;
+}
+#ram{
+    text-decoration: none;
+    background-color: rgb(226, 16, 156);
+    border:none;
+    height: 30px;
+    width: 80px;
+}
+.sec-4{
+    background-color:black;
+    width: 100%;
+    height: 30%;
+}
+footer{
+    color: #fff;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.fab fa-{
+    margin-right:20px;
 }
