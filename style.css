@@ -1,17 +1,39 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.sec-1{
+    display: flex;
+    justify-content: 50%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.cat{
+    margin-right: 300px;
+}
+#sam{
+    font-size:50px;
+}
 .button-1{
     height: 2em;
     width: 10em;
     background-color: rgb(207, 50, 123);
     border-radius: 10px;
+    border:none ;
+    margin-top: 10px;
 
 }
 .fas fa-arrow-{
     padding-left: 2px;
+    color: #fff;
     
 }
 .span1{
     color: azure;
+}
+.main-img  img{
+
+}
+.rat{
+    justify-content: center;
 }
